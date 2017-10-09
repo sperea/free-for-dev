@@ -42,6 +42,8 @@
 
 ## Frameworks
 
+  * [github.com](https://github.com/authomatic/authomatic) — Authomatic: Framework agnóstico  para autorización y autentificación de cliente para aplicaciones web. Entre sus funcionalidades destacamos:
+
   * [github.com](https://github.com/susam/ice) — Ice: Microframework WSGI para desarrollo de pequeñas aplicaciones web, esta inspirado en Bottle.
 
   * [github.com](https://github.com/tornadoweb/tornado) — Tornado: Framework web y librería asíncrona para redes I/O no-bloqueadas, que permite abrir cientos de conexiones, muy útil para aplicaciones Websocket y long-polling. Integración con servicios como Google,Facebook y Twitter, mediante OpenID y Oauth. Con servidores y aplicaciones WSGI, con librerias; asyncio y twisted.
@@ -57,5 +59,11 @@
 ## DevOps
 
   * [github.com](https://github.com/berdario/pew) — Pew: Herramienta para administrar múltiples entornos virtuales. Permite realizar crear,borrar y copiara entornos con un solo comando y en un localización configurada previamente.
+  
+  * [github.com](https://github.com/nickstenning/honcho) — Honcho: Es un port para Python de Foreman (https://github.com/ddollar/foreman), es un herramienta que permite administrar ficheros Procfile, ficheros de texto que describen los componentes requeridos para ejecutar la aplicación (utilizado en Heroku por ejemplo).
 
   * [github.com](https://github.com/kubeless/kubeless) — Kubeless: Framework serverless para Kubernetes, permite desplegar código sin preocuparte de la infraestructura. Dispone de un interfaz gráfica para ejecutarla de modo local o en un cluster, con soporte para Python y NodeJS. 
+  
+## Refactor
+
+  * [github.com](https://github.com/PyCQA/redbaron) — RedBaron:  Es una librería de Python que ayuda en el proceso de refactorización, utilizando FST(Full Sintax Tree)
