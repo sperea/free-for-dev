@@ -1,6 +1,8 @@
 ## Django
 
   * [github.com](https://github.com/byteweaver/django-referral) — Django-Referral: Aplicación para marketing que generar enlace referidos en una aplicación en Django, permite generar y administrar nuestros enlaces referidos.
+  
+  * [github.com](https://github.com/sshwsfc/xadmin) — Django-xadmin:  Panal de administración para reemplazar a Django admin, con un interfaz desarrollada con Bootstrap3 con soporte para themes.
 
 ## Flask
 
@@ -25,6 +27,8 @@
   * [github.com](https://github.com/geopandas/geopandas) — GeoPandas: Librería para datos geográficos que usa estructuras de Pandas. Proporciona una serie de operaciones geoespaciales en Pandas e interfaces que facilitan el trabajo para múltiples geometrías. 
 
   * [github.com](https://github.com/biolab/orange3) — Orange3: Herramienta para machine learning y visualización de datos, que permite mediante una interfaz gráfica realizar un análisis interactivos de los datos. 
+  
+  * [github.com](https://github.com/networkx/networkx) — NetworkX: Paquete de Python para la creación,manipulación y estudio de estructura ,dinámica y funciones de redes complejas.  
 
 ## Gráficos
 
