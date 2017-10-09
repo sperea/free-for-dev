@@ -13,6 +13,10 @@
   * [github.com](https://github.com/mongodb/motor) — Motor: Driver asincrono para MongoDB y aplicaciones en  Tornado o asyncio.
 
   * [github.com](https://github.com/siddhantgoel/tornado-sqlalchemy) — Tornado-SqlAlchemy:  Librería de Pyhton que proporciona un conjunto de funciones helpers para usar SQAlchemy con framework web tornado.
+  
+## Bots
+
+  * [github.com](https://github.com/DongjunLee/kino-bot) — Kino: Bot para Slack que funciona como asistente personal, esta orientado  a desarrolladores e incluye integración con GitHub, Kanban, Todoist o Toggl, permite activar recordatorios, crear gráficas de productividad, integración con IFFT o webhook en tiempo real. 
 
 ## Testing
 
@@ -43,6 +47,8 @@
   * [github.com](https://github.com/Kozea/WeasyPrint) — WeasyPrint: Herramienta para convertir documentos HTML/CSS a PDF.
 
   * [github.com](https://github.com/LonamiWebs/Telethon) — Telethon: Cliente para Telegram  implementado en Python 3 que utilizan la última versión del API de Telegram, lo puedes integrar con tus desarrollos.
+
+  * [github.com](https://github.com/ramonsaraiva/timy) — Timy: modulo para Python alternativo a timeit, añade flexibilidad y un diferente camino para mediciones de tiempo. Solo utiliza un decorador y un context managers
 
 ## Frameworks
 
