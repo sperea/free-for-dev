@@ -45,8 +45,13 @@ Servicios en la nube para desarrolladores
 PYTHON
 ======
 
-   * [General](/python.md#general)
-   * [Django](/python.md#django)
-   * [Utilidades](/python.md#utilidades)
-   * [Testing](/python.md#testing)
+* [Django](/python.md#django)
+* [Flask](/python.md#flask)
+* [Bots](/python.md#bots)
+* [Gráficos](/python.md#graficos)
+* [Utilidades](/python.md#utilidades)
+* [Frameworks](/python.md#frameworks)
+* [Red](/python.md#red)
+* [DevOps](/python.md#devops)
+* [Refactor](/python.md#refactor)
 
