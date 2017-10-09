@@ -3,6 +3,8 @@
   * [github.com](https://github.com/byteweaver/django-referral) — Django-Referral: Aplicación para marketing que generar enlace referidos en una aplicación en Django, permite generar y administrar nuestros enlaces referidos.
   
   * [github.com](https://github.com/sshwsfc/xadmin) — Django-xadmin:  Panal de administración para reemplazar a Django admin, con un interfaz desarrollada con Bootstrap3 con soporte para themes.
+  
+  * [github.com](https://github.com/django-haystack/django-haystack) — Django-haystack: Proporciona un sistema modular de busquedas en Django, que permite utilizar diferentes backend como Solr,Elasticsearch,Xapian...etc) de una forma limpia sin modificar tu código.
 
 ## Flask
 
@@ -52,13 +54,15 @@
 
 ## Frameworks
 
-  * [github.com](https://github.com/authomatic/authomatic) — Authomatic: Framework agnóstico  para autorización y autentificación de cliente para aplicaciones web. Entre sus funcionalidades destacamos:
+  * [github.com](https://github.com/authomatic/authomatic) — Authomatic: Framework agnóstico  para autorización y autentificación de cliente para aplicaciones web. 
+  
+  * [github.com](https://github.com/ofek/hatch) — Hatch: Herramienta de productividad para proyectos, paquetes y entornos de configuración, que permite sustituir a un conjunto grande de herramientas. 
 
   * [github.com](https://github.com/susam/ice) — Ice: Microframework WSGI para desarrollo de pequeñas aplicaciones web, esta inspirado en Bottle.
+  
+   * [mush.readthedocs.io](http://mush.readthedocs.io/en/latest/) — mush: Framework ligero para inyección de dependencias.
 
   * [github.com](https://github.com/tornadoweb/tornado) — Tornado: Framework web y librería asíncrona para redes I/O no-bloqueadas, que permite abrir cientos de conexiones, muy útil para aplicaciones Websocket y long-polling. Integración con servicios como Google,Facebook y Twitter, mediante OpenID y Oauth. Con servidores y aplicaciones WSGI, con librerias; asyncio y twisted.
-
-  * [github.com](https://github.com/ofek/hatch) — Hatch: Herramienta de productividad para proyectos, paquetes y entornos de configuración, que permite sustituir a un conjunto grande de herramientas. 
 
 ## Red
 
@@ -77,3 +81,7 @@
 ## Refactor
 
   * [github.com](https://github.com/PyCQA/redbaron) — RedBaron:  Es una librería de Python que ayuda en el proceso de refactorización, utilizando FST(Full Sintax Tree)
+  
+## Machie Learning
+
+  * [fabrik.cloudcv.org](http://fabrik.cloudcv.org/) — Fabrik: Plataforma online para construir,visualizar y entrenar modelos de  deep learning, con una interfaz Drag and Drop.  Mediante una sencilla interfaz web se puede desarrollar,editar y depurar modelos ,  permite trabajar con modelos desarrollados en Caffe, Keras y TensorFlow.
