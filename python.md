@@ -5,6 +5,8 @@
   * [github.com](https://github.com/sshwsfc/xadmin) — Django-xadmin:  Panal de administración para reemplazar a Django admin, con un interfaz desarrollada con Bootstrap3 con soporte para themes.
   
   * [github.com](https://github.com/django-haystack/django-haystack) — Django-haystack: Proporciona un sistema modular de busquedas en Django, que permite utilizar diferentes backend como Solr,Elasticsearch,Xapian...etc) de una forma limpia sin modificar tu código.
+  
+  * [github.com](https://github.com/pennersr/django-allauth) — django-allauth: librería para implementar login social en Django.
 
 ## Flask
 
